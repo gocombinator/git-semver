@@ -1,0 +1,4 @@
+github.com/gocombinator/semver v0.0.1 h1:RT9wtToO74p1z46aBO+cQO0oRO0CsR2mQlIxd2rhLxI=
+github.com/gocombinator/semver v0.0.1/go.mod h1:BDdDUqu3fQgImBvzr82MvqJQ44vVBh/wRwLKNY6ifJM=
+github.com/gocombinator/sh v0.1.0 h1:DrIub/D9tbCfm+wzOlGKrUCk5FfasiZIwcAMJ60lypM=
+github.com/gocombinator/sh v0.1.0/go.mod h1:8XdOVBjdXOfJXDFUmNPyfytSWDbccu2kDlvXUHLgSRw=
